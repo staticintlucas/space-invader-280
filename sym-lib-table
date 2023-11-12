@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Switch_4_Pin")(type "KiCad")(uri "${KIPRJMOD}/Switch_4_Pin.kicad_sym")(options "")(descr ""))
+)

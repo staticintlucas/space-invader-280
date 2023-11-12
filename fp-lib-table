@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Hi-Tek_Series_725")(type "KiCad")(uri "${KIPRJMOD}/Hi-Tek_Series_725.pretty")(options "")(descr ""))
+)
